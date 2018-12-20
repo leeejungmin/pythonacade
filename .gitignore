@@ -1,4 +1,6 @@
-
+#normally this is not for pushing for github
 *.txtt
-*.txt
 
+*.txt
+#This is very special donc.... 
+!jungmingood.txt
